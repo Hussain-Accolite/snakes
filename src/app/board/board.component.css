@@ -1,0 +1,21 @@
+p.cc{
+    color: aqua;
+}
+.snake{
+    color: rgb(215, 9, 9);
+}
+.end{
+    color:blue;
+}
+.player1{
+    color: green;
+}
+.player2{
+    color: yellow;
+}
+td{
+    font-size: large;
+}
+td{
+    text-align: center;
+}
